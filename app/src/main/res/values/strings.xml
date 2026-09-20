@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Route Simulator</string>
+    <string name="destination_hint">Destino: latitude,longitude</string>
+    <string name="start">Iniciar simulação</string>
+    <string name="stop">Parar simulação</string>
+    <string name="speed_hint">Velocidade (km/h)</string>
+</resources>
